@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IAmSp33d11
-- 👀 I’m interested in Web Development, Software Development, and basically any aspect of programming.
-- 😄 Pronouns: Any
+- 👀 I’m interested in Systems Development
+- 😄 Pronouns: She/Her
 
   
 <!---
