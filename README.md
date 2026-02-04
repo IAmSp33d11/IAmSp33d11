@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @IAmSp33d11
-- 👀 I’m interested in Systems Development
+- 👀 I’m interested in Operating System Development
 - 😄 Pronouns: She/Her
+
+If you see anyone named IAmSp33d in any of my git repos, thats also me lol
 
   
 <!---
