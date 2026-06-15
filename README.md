@@ -2,8 +2,7 @@
 - 👀 I’m interested in Operating System Development
 - 😄 Pronouns: She/Her
 
-If you see anyone named IAmSp33d in any of my git repos, thats also me lol
-
+<sub>What's the point of this?</sub>
   
 <!---
 IAmSp33d11/IAmSp33d11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
